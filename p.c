@@ -8,3 +8,5 @@ int main()
         {
                 case 1:printf("Btech in CSE");
                        break;
+		case 2:printf("Btech in AIML");
+		       break;
