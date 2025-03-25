@@ -14,6 +14,8 @@ int main()
 		       break;
 		case 4:printf("Btech in MEC");
 		       break;
+		default :printf("invalid choice");
+			break;
 	}
 	return 0;
 }
